@@ -2,7 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #black;
+    background-color: black;
 }
 
 h1 {
@@ -28,3 +28,4 @@ a {
  margin: 20px auto;
     
 }
+
